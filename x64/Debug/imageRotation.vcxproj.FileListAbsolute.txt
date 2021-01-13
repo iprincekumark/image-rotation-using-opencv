@@ -1,0 +1,2 @@
+C:\Users\asus\source\repos\imageRotation\x64\Debug\imageRotation.exe
+C:\Users\asus\source\repos\imageRotation\x64\Debug\imageRotation.pdb
